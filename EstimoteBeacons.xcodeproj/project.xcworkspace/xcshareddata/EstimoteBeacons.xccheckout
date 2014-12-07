@@ -6,22 +6,30 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>0567F4D4-A500-450D-8C81-381A8029DD51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EstimoteBeacons</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6CCB585858000804BB16202076224C1AB1B84311</key>
 		<string>https://github.com/Estimote/iOS-SDK.git</string>
+		<key>8A1C58C29080D1497C25CC9643C213FCFDB5285E</key>
+		<string>github.com:christianmosveen/EstimoteBeacons.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EstimoteBeacons.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6CCB585858000804BB16202076224C1AB1B84311</key>
-		<string>estimote-ios-sdk/</string>
+		<string>../../../../Cocoa/estimote-ios-sdk</string>
+		<key>8A1C58C29080D1497C25CC9643C213FCFDB5285E</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Estimote/iOS-SDK.git</string>
+	<string>github.com:christianmosveen/EstimoteBeacons.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6CCB585858000804BB16202076224C1AB1B84311</string>
+	<string>8A1C58C29080D1497C25CC9643C213FCFDB5285E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -31,6 +39,14 @@
 			<string>6CCB585858000804BB16202076224C1AB1B84311</string>
 			<key>IDESourceControlWCCName</key>
 			<string>estimote-ios-sdk</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8A1C58C29080D1497C25CC9643C213FCFDB5285E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EstimoteBeacons</string>
 		</dict>
 	</array>
 </dict>
