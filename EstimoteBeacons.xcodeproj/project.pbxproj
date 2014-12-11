@@ -17,6 +17,7 @@
 		AAF8C2801A34D04D00028EBC /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF8C27D1A34D04D00028EBC /* CoreLocation.framework */; };
 		AAF8C2811A34D04D00028EBC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF8C27E1A34D04D00028EBC /* SystemConfiguration.framework */; };
 		AAF8C28F1A34D44200028EBC /* libEstimoteSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF8C28E1A34D44200028EBC /* libEstimoteSDK.a */; };
+		AAF8C2911A35A45800028EBC /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF8C2901A35A45800028EBC /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		AAF8C28C1A34D44200028EBC /* ESTBeaconVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconVO.h; sourceTree = "<group>"; };
 		AAF8C28D1A34D44200028EBC /* ESTBulkUpdater.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBulkUpdater.h; sourceTree = "<group>"; };
 		AAF8C28E1A34D44200028EBC /* libEstimoteSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEstimoteSDK.a; sourceTree = "<group>"; };
+		AAF8C2901A35A45800028EBC /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			children = (
 				AAF8C2821A34D44200028EBC /* EstimoteSDK */,
 				AAF8C24E1A34CE5000028EBC /* AppDelegate.swift */,
+				AAF8C2901A35A45800028EBC /* Constants.swift */,
 				AAF8C2501A34CE5000028EBC /* ViewController.swift */,
 				AAF8C2521A34CE5000028EBC /* Main.storyboard */,
 				AAF8C2551A34CE5000028EBC /* Images.xcassets */,
@@ -266,6 +269,7 @@
 			files = (
 				AAF8C2511A34CE5000028EBC /* ViewController.swift in Sources */,
 				AAF8C24F1A34CE5000028EBC /* AppDelegate.swift in Sources */,
+				AAF8C2911A35A45800028EBC /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
